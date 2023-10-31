@@ -1,62 +1,64 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 
-<head>
+  <head>
     <h1>My Resume</h1>
     <img src="../assets/images/Professional Headshot.jpeg" height="360" alt="Lynn's professional headshot"/>
     <hr>
     <h2>Name: Lynn Nakimera Mahner </h2>                                            
     <h2>Contact: nakilynn8@gmail.com </h2>
     <h2>Address: 235 E 117th St New York, NY 10035 </h2>
-</head>
-<hr>
+  </head>
+ <hr>
 
-<Body>
+ <Body>
 
-  <h3>Summary or objective statement</h3>
-    <p>To become a versatile health care professional and apply my technological skills to improve the medical professional experiences with Electronic Health records so that focus is on patient care</p>
+     <h3>Summary or objective statement</h3>
+      <p>To become a versatile health care professional and apply my technological skills to improve the medical professional experiences with Electronic Health records so that focus is on patient care</p>
 
-  <h3>Education (list degrees, schools, and dates)</h3>
-    <ol>
-       <li>Bachelor of Science in Biology and a Minor in Deaf Studies  
-         <ul>Date of Graduation: May 2020 </ul>
-         <ul>GPA: 3.48</ul> 
-         <ul>State University of New York at New Paltz </ul>
-       </li>
-       <li>Pre-Nursing coursework
-         <ul>City University of New York at City College -  Summer 2022 </ul>                                      
-         <ul>GPA: 3.58</ul>
+     <h3>Education (list degrees, schools, and dates)</h3>
+      <ol>  
+         <li>  
+            <h4 class="title"> Bachelor of Science in Biology and a Minor in Deaf Studies </h4>
+            <ul>Date of Graduation: May 2020</ul>
+            <ul>GPA: 3.48</ul> 
+            <ul>State University of New York at New Paltz </ul>
+         </li>
+         <li> 
+         <h4 class="title"> Pre-Nursing coursework </h4>
+            <ul>City University of New York at City College -  Summer 2022 </ul>                                      
+            <ul>GPA: 3.58</ul>
 
-         <ul>City University of New York at New York City College of Technology  -   Fall 2022 </ul>   
-         <ul>GPA: 3.933</ul>
-       </li> 
-    </ol>
+            <ul>City University of New York at New York City College of Technology  -  Fall 2022 </ul>   
+            <ul>GPA: 3.933</ul>
+         </li> 
+      </ol>
 
- 
- <h3>Work experience (list job titles, employers, dates, and responsibilities)</h3>
+     <h3>Work experience (list job titles, employers, dates, and responsibilities)</h3>
 
-  <h4>Northwell-GoHealth Urgent Care, New York   -    Jan. 2022 to present</h4> 
-  <h4>Advanced Clinical Associate / Supervisor: Shaniqua Powell, MA</h4>
-  <ul>
-     <li>Perform point of care testing including COVID-19, Strep, Influenza, Urinalysis Dipstick, and Urine Pregnancy, Fingerstick Glucose, Rapid Mono, and Visual Acuity tests </li>
-     <li>Perform EKGs</li>
-     <li>Document patient history of presenting illness and other components of patient interactions in Electronic Health Records (eClinicalWorks)</li>
-     <li>Order prescriptions, laboratory work, and diagnostic imaging procedures</li>
-     <li>Can apply EMT-Basic Life Support skills including CPR under clinical provider approval </li>
-     <li>Set up procedure equipment and assist providers with procedures</li>
-     <li>Process referrals and update patient information</li>
-     <li>Making and answering phone calls regarding patients or other departments</li>
-     <li>Growth: Point of Care testing, written and verbal communication skills, keyboard proficiency, and exposure to Electronic Health Records</li>
- </ul>
+     <h4 class="title"> Northwell-GoHealth Urgent Care, New York   -    Jan. 2022 to present</h4> 
+     <h4 class="title"> Advanced Clinical Associate / Supervisor: Shaniqua Powell, MA</h4>
+    <ul>
+      <li>Perform point of care testing including COVID-19, Strep, Influenza, Urinalysis Dipstick, and Urine Pregnancy, Fingerstick Glucose, Rapid Mono, and Visual Acuity tests </li>
+      <li>Perform EKGs</li>
+      <li>Document patient history of presenting illness and other components of patient interactions in Electronic Health Records (eClinicalWorks)</li>
+      <li>Order prescriptions, laboratory work, and diagnostic imaging procedures</li>
+      <li>Can apply EMT-Basic Life Support skills including CPR under clinical provider approval </li>
+      <li>Set up procedure equipment and assist providers with procedures</li>
+      <li>Process referrals and update patient information</li>
+      <li>Making and answering phone calls regarding patients or other departments</li>
+      <li>Growth: Point of Care testing, written and verbal communication skills, keyboard proficiency, and exposure to Electronic Health Records</li>
+   </ul>
     
  
      
-  <h4>Summer Undergraduate Laboratory Internship, Brookhaven National Laboratory  -  Aug. to Dec. 2021 U.S. DOE Research Intern /Advisor: Desigan Kumaran, PhD</h4>
-  <h4> Project:“Molecular docking of FDA-approved anticancer drugs on SARS-CoV-2 Nucleocapsid protein”</h4>  
+    <h4 class="title"> Summer Undergraduate Laboratory Internship, Brookhaven National Laboratory  -  Aug. to Dec. 2021</h4>
+    <h4 class="title"> U.S. DOE Research Intern /Advisor: Desigan Kumaran, PhD </h4>
+    <h4 class="title"> Project:“Molecular docking of FDA-approved anticancer drugs on SARS-CoV-2 Nucleocapsid protein”</h4>  
 
    <ul>
      <li>Obtained N-protein from Protein Data Bank and anticancer drugs (ligands) from DrugBank</li>
-     <li>Mastery of molecular docking using AutoDock Vina software</li> 
+     <li>Mastery of molecular docking using AutoDock Vina software </li> 
      <li>Visualized and analyzed N-protein and ligand interactions using PyMOL</li> 
      <li>Docked 108 ligands, 8 of which had strong affinity to N-protein</li> 
      <li>Oral presentation and Poster discussion</li> 
@@ -64,53 +66,45 @@
      <li>Growth: structural and computational biological concepts; presentation, teamwork, communication, MGL suite tools skills</li>
    </ul>
      
-  <h4>SUNY New Paltz / AMP and CSTEP (AC^2) program      -     Sept. 2020 to June 2021</h4>
-  <h4>Assistant Coordinator/ Supervisor: Nancy Campos, PhD</h4> 
+    <h4 class="title"> SUNY New Paltz / AMP and CSTEP (AC^2) program      -     Sept. 2020 to June 2021</h4>
+    <h4 class="title"> Assistant Coordinator/ Supervisor: Nancy Campos, PhD</h4> 
     <ul>
-     <li>Established a premedical pipeline group</li> 
-     <li>Hosted talk sessions in collaboration with a family medicine resident who invited other residents and medical school students who shared their journeys and tips on application preparations with our students</li>
-     <li>Supervised student assistants, first-year interns, and tutors</li> 
-     <li>Hosted professional development and community-building events for students</li> 
-     <li>Reviewed applications and interviewed students for summer research, interns, and incoming students to the program </li>
-     <li>Shared STEM Research and Internship opportunities with our students from WordPress</li>
-     <li>Documented academic and activity participation of students via Excel and Argos in Outlook </li>
-     <li>Growth: Teamwork, communication, leadership, Microsoft suite, Qualtrics, and WordPress skills</li>
+      <li>Established a premedical pipeline group</li> 
+      <li>Hosted talk sessions in collaboration with a family medicine resident who invited other residents and medical school students who shared their journeys and tips on application preparations with our students</li>
+      <li>Supervised student assistants, first-year interns, and tutors</li> 
+      <li>Hosted professional development and community-building events for students</li> 
+      <li>Reviewed applications and interviewed students for summer research, interns, and incoming students to the program </li>
+      <li>Shared STEM Research and Internship opportunities with our students from WordPress</li>
+      <li>Documented academic and activity participation of students via Excel and Argos in Outlook </li>
+      <li>Growth: Teamwork, communication, leadership, Microsoft suite, Qualtrics, and WordPress skills</li>
    </ul>
     
-  <h3>Skills (list relevant skills or areas of expertise)</h3>   
+    <h3>Skills (list relevant skills or areas of expertise)</h3>   
     <ul>
-       <li>Microsoft suite skills</li>
-       <li>PyMOL</li>
-       <li>BLS </li> 
+      <li>Microsoft suite skills</li>
+      <li>PyMOL</li>
+      <li>BLS </li> 
     </ul>
-  <h3>Awards, certifications, or other achievements (list any relevant awards, certifications, or other accomplishments)</h3>   
-    <h4>SULI Certificate of Participation -   Dec. 2021 </h4>                                         
+   <h3>Awards, certifications, or other achievements (list any relevant awards, certifications, or other accomplishments)</h3>   
+   <h4 class="title"> SULI Certificate of Participation -   Dec. 2021 </h4>                                         
    <p>Successful completion of the Fall virtual Science Undergraduate Laboratory Internship (SULI) at Brookhaven National Laboratory.</p> 
 
-  <h4>SUNY New Paltz Departmental Honors</h4>                                                                        May 2020 
+   <h4 class="title"> SUNY New Paltz Departmental Honors   -    May 2020 </h4>
    <p>I participated in the AC^2 summer research program and continued to work on this project via an independent study to assist my faculty mentor, Dr. Jennifer Waldo. I also assisted an upper-class  student with his senior research project for more hands-on laboratory exposure. Additionally, I   volunteered to guide prospective students through classroom and laboratory tours in the Science building, other campus resources, and shared tips from my experiences. Lastly, I was a member of the biology club where I volunteered to register people for bone marrow donations.</p> 
 
-  <h4>EOP Travel Grant Award        -           May 2019 </h4>
-  <p>Due to my desire to immerse myself in a foreign culture and serve the needs of a particular deaf community in Addis Ababa, Ethiopia, and my outstanding academic performance, EOP awarded me a  grant to cover my travel expenses.</p> 
+   <h4 class="title"> EOP Travel Grant Award       -       May 2019 </h4>
+   <p>Due to my desire to immerse myself in a foreign culture and serve the needs of a particular deaf community in Addis Ababa, Ethiopia, and my outstanding academic performance, EOP awarded me a  grant to cover my travel expenses.</p> 
 
-  <h4>Academic Professional Conference Participation          -         July 2018 </h4> 
-  <p>Participated in a poster presentation of the AC^2 summer research project, “Analyzing genotypes of canines with ridges.” I attended diverse presentations by other students and professionals, with whom I networked.</p> 
+   <h4 class="title"> Academic Professional Conference Participation         -         July 2018 </h4> 
+   <p>Participated in a poster presentation of the AC^2 summer research project, “Analyzing genotypes of canines with ridges.” I attended diverse presentations by other students and professionals, with whom I networked.</p> 
 
-
-
-   <h4>Academic Achievement Award and Induction       -      May 2018 </h4>
+   <h4 class="title"> Academic Achievement Award and Induction       -      May 2018 </h4>
    <p>During the spring semester of my sophomore year, I was inducted into this honor society because I maintained a GPA above a 3.0 for two consecutive semesters. Upon graduation, I received an honor sash for outstanding academic performance and my participation.</p>
-
 
     <footer>
     <p>First Resume web project. 2023@copyright</p>
     </footer>
-
-
-
-
-
-</Body>
+ </Body>
 
 
 
