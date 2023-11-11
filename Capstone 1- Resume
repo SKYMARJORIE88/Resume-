@@ -2,19 +2,23 @@
 <html lang="en">
 
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1>My Resume</h1>
+  </head>
+ <hr/>
+
+ <Body>
     <img src="../assets/images/Professional Headshot.jpeg" height="360" alt="Lynn's professional headshot"/>
     <hr>
     <h2>Name: Lynn Nakimera Mahner </h2>                                            
     <h2>Contact: nakilynn8@gmail.com </h2>
     <h2>Address: 235 E 117th St New York, NY 10035 </h2>
-  </head>
- <hr>
 
- <Body>
+    <hr/>
 
-     <h3>Summary or objective statement</h3>
-      <p>To become a versatile health care professional and apply my technological skills to improve the medical professional experiences with Electronic Health records so that focus is on patient care</p>
+    <h3>Summary or objective statement</h3>
+    <p>To become a versatile health care professional and apply my technological skills to improve the medical professional experiences with Electronic Health records so that focus is on patient care</p>
 
      <h3>Education (list degrees, schools, and dates)</h3>
       <ol>  
